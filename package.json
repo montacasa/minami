@@ -1,6 +1,6 @@
 {
-  "name": "mc-minami",
-  "version": "1.2.3",
+  "name": "minami-custom-udecor",
+  "version": "1.2.4-rc.1",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
   "scripts": {
